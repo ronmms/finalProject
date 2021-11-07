@@ -1,4 +1,4 @@
 .idea/**
-code/client/sapir-example-client/node_modules
+sapir_project/node_modules
 venv
 **/*.iml
